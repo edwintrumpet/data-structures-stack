@@ -1,0 +1,27 @@
+{
+  "name": "stack-data-structures",
+  "version": "1.0.0",
+  "description": "Function that checks that all grouping operators are correcly closed in a code file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "eslint src/*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["data strcutures", "stacks"],
+  "author": "Edwin García <spark.com.co@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "7.28.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.23.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwintrumpet/data-structures-stack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edwintrumpet/data-structures-stack/issues"
+  },
+  "homepage": "https://github.com/edwintrumpet/data-structures-stack#readme"
+}
